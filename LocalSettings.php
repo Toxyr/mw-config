@@ -4206,6 +4206,7 @@ $wgConf->settings = array(
 		'drones4allwiki' => "//$wmgUploadHostname/drones4allwiki/6/60/Wiki_Logo.png",
 		'dsiguidewiki' => "//$wmgUploadHostname/dsiguidewiki/1/13/Wikilogod.jpg",
 		'dwplivewiki' => "//$wmgUploadHostname/dwplivewiki/c/c0/Logo_135.png",
+		'emionewiki' => "//$wmgUploadHostname/emionewiki/8/83/Emione.png",
 		'emulationwiki' => "//$wmgUploadHostname/emulationwiki/3/3b/Wiki_logo.png",
 		'enmarchewiki' => "//$wmgUploadHostname/enmarchewiki/b/bb/LogoEM68_135x135-2.png",
 		'eotewiki' => "//$wmgUploadHostname/eotewiki/6/64/Logo_triumph.png",
